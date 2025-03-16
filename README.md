@@ -1,8 +1,9 @@
 # Business-Insights-360
 ________________________________________
+========================================
 ________________________________________
 
-**Overview**
+**Overview:**
 ________________________________________
 
 The Business Insights 360 project delivers a powerful data analytics solution using Power BI, designed to resolve inefficiencies faced by AtliQ Hardware, a fast-growing consumer electronics company. This dashboard offers multiple key views:
@@ -19,11 +20,13 @@ The Business Insights 360 project delivers a powerful data analytics solution us
 
 •	**Executive View:** Provides a high-level summary to aid strategic decision-making.
 
-**Problem Statement**
+**Problem Statement:**
 ________________________________________
 
 AtliQ Hardware has been depending on Excel files for data analytics, which has proven inefficient in generating meaningful insights. This lack of timely and accurate data has led to major operational hurdles and financial setbacks in the Latin American market.
-Objective
+
+**Objective:**
+________________________________________
 
 **This project aims to replace the traditional Excel-based analytics system with a comprehensive Power BI solution, ensuring:**
 
@@ -44,12 +47,12 @@ Project Components
 
   •	**Supply Chain View:** Analysis of supply chain operations.
   
-**Datasets**
+**Datasets:**
 ________________________________________
 
 The project leverages data from two SQL databases, comprising multiple dimension and fact tables. These datasets provide insights across core business areas, supporting informed decision-making.
 
-**Data Model**
+**Data Model:**
 ________________________________________
 
 The snowflake schema is used for data modelling, ensuring efficient organization and retrieval of data. The schema includes:
@@ -58,11 +61,10 @@ The snowflake schema is used for data modelling, ensuring efficient organization
 
 •	**Dimension Tables:** Contain descriptive attributes linked to fact tables, arranged in a structured hierarchy.
    
-**Technical & Soft Skills**
-________________________________________
-________________________________________
+**Technical & Soft Skills:**
+============================
 
-**Technical Skills**
+**Technical Skills:**
 ________________________________________
 
 •	Power BI
@@ -81,7 +83,7 @@ ________________________________________
 
 •	DAX Studio
 
-**Soft Skills**
+**Soft Skills:**
 ________________________________________
 
 •	Problem-Solving
