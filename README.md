@@ -90,7 +90,6 @@ ________________________________________
 
 **Live Dashboard:**
 
-To explore the live dashboard, visit the following link:[Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiMDk4OTI2YjMtNzc5MC00MWQ3LTljOWYtZTViYjE1NWQ3NTVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiZjkzYjAzOTQtNGZkMS00Mzc1LWFhZjYtN2NkM2Y4OTI4NDUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 )
-
+To explore the live dashboard, visit the following link: [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjkzYjAzOTQtNGZkMS00Mzc1LWFhZjYtN2NkM2Y4OTI4NDUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
