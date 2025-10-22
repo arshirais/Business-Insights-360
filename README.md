@@ -11,10 +11,6 @@ The Business Insights 360 project delivers a powerful data analytics solution us
 
 •	**Sales View:** Monitors sales trends and performance.
 
-•	**Marketing View:** Assesses marketing strategies and their effectiveness.
-
-•	**Supply Chain View:** Tracks supply chain efficiency and operational performance.
-
 ________________________________________
 
 **Problem Statement:**
@@ -41,9 +37,6 @@ Project Components
 
   •	**Sales View:** Insights into sales trends and revenue performance.
 
-  •	**Marketing View:** Evaluation of marketing efforts and their impact.
-
-  •	**Supply Chain View:** Analysis of supply chain operations.
   ________________________________________
   
 **Datasets:**
